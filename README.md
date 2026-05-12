@@ -5,7 +5,7 @@ Install dan setup Syncthing pada STB HG680P / B860H dengan Armbian 64-bit.
 ## Install
 
 ```bash
-sudo apt update && sudo apt upgrade -y
+sudo apt update
 sudo apt install syncthing -y
 ```
 
